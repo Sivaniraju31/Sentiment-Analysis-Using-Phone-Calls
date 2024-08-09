@@ -5,6 +5,7 @@ Developed a sentiment analysis system to evaluate emotions from  phone calls usi
 
 * Before we start, we must ensure we have the required libraries installed and they can be installed with npm. If you are using Google Colab, you can install the libraries.
 * Once the libraries are installed, we can import the necessary module.
+* The modules which we need are - Gradio, Whisper, and pipeline from Transformers, which performs sentiment analysis using pre-trained models.
 
 <h4>FOOTER HTML</h4>
 This is the very bottom of the layout
